@@ -1,0 +1,36 @@
+div.testFloat{
+float:left;
+width:100px;
+height:150px;
+padding:10px;
+background:#FF0000;
+color:white;
+}
+
+p{
+  background:
+  #ECECEC
+}
+
+.clearBoth{
+  clear:both;
+}
+
+
+.blueleft{
+  float:left;
+  width:300px;
+  height:300px;
+  margin:20px;
+  background:blue;
+}
+
+
+.redleft{
+
+float:right;
+width:300px;
+height: 300px;
+margin:20;
+background: red;
+}
